@@ -1,0 +1,26 @@
+.. customerApp documentation master file, created by
+   sphinx-quickstart on Thu Apr 27 13:27:22 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to customerApp's documentation!
+=======================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+://pypi.python.org/pypi/sphinx-autobuild/0.2.3
+Dec 25, 2013 - sphinx-autobuild relies on a not-yet-released version of python-livereload. You can install it through pip by issuing the following command:https://pypi.python.org/pypi/sphinx-autobuild/0.2.3
+Dec 25, 2013 - sphinx-autobuild relies on a not-yet-released version of python-livereload. You can install it through pip by issuing the following command:https://pypi.python.org/pypi/sphinx-autobuild/0.2.3
+Dec 25, 2013 - sphinx-autobuild relies on a not-yet-released version of python-livereload. You can install it through pip by issuing the following command:https://pypi.python.org/pypi/sphinx-autobuild/0.2.3
+Dec 25, 2013 - sphinx-autobuild relies on a not-yet-released version of python-livereload. You can install it through pip by issuing the following command:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
